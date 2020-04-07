@@ -4,4 +4,4 @@ print("Joy work hard")
 
 print("git hub 修改内容")
 
-pirnt("fetch 拉取代码")
+print("fetch 拉取代码")
